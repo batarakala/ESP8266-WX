@@ -11,3 +11,9 @@ There are 2 types of output:
 Below is wiring diagram used by the code
 
 ![Wiring Diagram](https://github.com/pakualam/ESP8266-WX/blob/master/Picture/NodeMCU-BME280.jpg)
+
+## To Do
+Things that yet to be added:
+* More sensors: rain and wind
+* Telemetry data: solar panel voltage, battery voltage
+* APRS via radio instead of via WiFi
